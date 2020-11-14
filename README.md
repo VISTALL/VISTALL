@@ -1,16 +1,16 @@
-### Hi there 👋
+### About
 
-<!--
-**VISTALL/VISTALL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Valery aka VISTALL, living in Saint Petersburg.
 
-Here are some ideas to get you started:
+### Primary Job
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Unity developer (from 2019) 
+
+### Past Jobs
+
+ * ReactJS developer (around year)
+ * IntelliJ IDEA plugin developer (one year)
+ * Java developer (more that 8 years)
+ * C# developer (around year)
+ 
+Also I'm main developer of [Consulo IDE](https://github.com/consulo), and it's my primary IDE.
