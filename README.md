@@ -4,7 +4,7 @@ My name is Valery aka VISTALL, living in Saint Petersburg.
 
 ### Primary Job
 
-Unity developer (from 2019) 
+Unity developer (from early 2020) 
 
 ### Past Jobs
 
