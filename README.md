@@ -1,6 +1,6 @@
 ### About
 
-My name is Valery aka VISTALL, living in Saint Petersburg.
+My name is Valery aka VISTALL, living in Tbilisi, Georgia.
 
 ### Current Job
 
